@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <title>my simple website</title>
+    <body>
+        <h1>this is my simple website</h1>
+        <p>I am excited to be learning CSS</p>
+        <div>this is a div</div>
+    </body>
+</html>
